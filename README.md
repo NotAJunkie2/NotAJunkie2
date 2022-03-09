@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 ### Languages and Tools:
 
-![c](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg)
+![c](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg | 64x64)
