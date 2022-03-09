@@ -3,7 +3,7 @@
 - 📗 I’m currently learning at Epitech Paris | First year<br/>
 - 💻 I like to draw, play video-games and learn new stuff<br/>
 - 📫 How to reach me: artyom.tillon@epitech.eu<br/>
-- 🎮 Fun fact: I participated in a GlobalGameJam 2022<br/>
+- 🎮 Fun fact: I participated in the GGJ 2022<br/>
 - ⭐ 2022 goal: Do more video-game development, learn C# and Python<br/>
 
 <p align="left">
