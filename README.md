@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Artyom</h1>
-- 😎 I’m 18 years old  
-- 📗 I’m currently learning at Epitech Paris | First year  
-- 💻 I like to draw, play video-games and learn new stuff  
-- 📫 How to reach me: artyom.tillon@epitech.eu  
-- 🎮 Fun fact: I participated in a GlobalGameJam 2022  
-- ⭐ 2022 goal: Do more video-game development, learn C# and Python  
+- 😎 I’m 18 years old<br/>
+- 📗 I’m currently learning at Epitech Paris | First year<br/>
+- 💻 I like to draw, play video-games and learn new stuff<br/>
+- 📫 How to reach me: artyom.tillon@epitech.eu<br/>
+- 🎮 Fun fact: I participated in a GlobalGameJam 2022<br/>
+- ⭐ 2022 goal: Do more video-game development, learn C# and Python<br/>
 
 <p align="left">
 </p>
