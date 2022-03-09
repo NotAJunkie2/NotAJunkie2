@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 🎮 Fun fact: I participated in a GlobalGameJam 2022
 - ⭐ 2022 goal: Do more video-game development, learn C# and Python
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
