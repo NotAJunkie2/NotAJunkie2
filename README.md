@@ -10,7 +10,7 @@
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Raskc&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=NotAJunkie2&show_icons=true&theme=dark&line_height=27">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
