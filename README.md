@@ -1,4 +1,4 @@
-### Hi there, my name's Artyom 👋
+## Hi there, my name's Artyom 👋
 
 <!--
 **NotAJunkie2/NotAJunkie2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+![c](https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg)
