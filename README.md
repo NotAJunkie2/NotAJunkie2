@@ -1,21 +1,9 @@
-## Hi there, my name's Artyom 👋
+<h1 align="center">Hi 👋, I'm Artyom</h1>
+- - 📫 How to reach me: **artyom.tillon@epitech.eu**
 
-<!--
-**NotAJunkie2/NotAJunkie2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Here are some ideas to get you started:
-
-
--->
-- 😎 I’m 18 years old
-- 📗 I’m currently learning at Epitech Paris | First year
-- 💻 I like to draw, play video-games and learn new stuff
-- 📫 How to reach me: artyom.tillon@epitech.eu
-- 🎮 Fun fact: I participated in a GlobalGameJam 2022
-- ⭐ 2022 goal: Do more video-game development, learn C# and Python
-
-### Languages and Tools:
-
-<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="32" height="32" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="32" height="32" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" width="32" height="32" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
