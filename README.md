@@ -1,17 +1,10 @@
 <h1 align="center">Hi 👋, I'm Artyom</h1>
-<!--
-**NotAJunkie2/NotAJunkie2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
-<h3 align="left">- 😎 I’m 18 years old
-<h3 align="left">- 📗 I’m currently learning at Epitech Paris | First year
-<h3 align="left">- 💻 I like to draw, play video-games and learn new stuff
-<h3 align="left">- 📫 How to reach me: artyom.tillon@epitech.eu
-<h3 align="left">- 🎮 Fun fact: I participated in a GlobalGameJam 2022
-<h3 align="left">- ⭐ 2022 goal: Do more video-game development, learn C# and Python
+- 😎 I’m 18 years old
+- 📗 I’m currently learning at Epitech Paris | First year
+- 💻 I like to draw, play video-games and learn new stuff
+- 📫 How to reach me: artyom.tillon@epitech.eu
+- 🎮 Fun fact: I participated in a GlobalGameJam 2022
+- ⭐ 2022 goal: Do more video-game development, learn C# and Python
 
 <p align="left">
 </p>
