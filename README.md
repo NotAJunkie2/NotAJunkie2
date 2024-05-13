@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Artyom</h1>
-- 😎 I’m 19 years old<br/>
-- 📗 I’m currently learning at Epitech Paris | First year<br/>
+- 😎 I’m 21 years old<br/>
+- 📗 I’m currently learning at Epitech Paris | Third year<br/>
 - 💻 I like to draw, play video-games and learn new stuff<br/>
 - 📫 How to reach me: artyom.tillon@epitech.eu<br/>
 - 🎮 Fun fact: I participated in the GGJ 2022<br/>
