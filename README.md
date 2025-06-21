@@ -19,7 +19,7 @@ I am actively working on a mod for *Risk of Rain 2* called **Ping Icons Overhaul
 
 ### FIVES Maintenance
 *Learning Module Creator*
-_February 2024 – July 2024 (4 months)_
+_February 2024 – July 2024_
 - Created training materials and support documents
 - Implemented Zero Trust Network Access (ZTNA)
 
